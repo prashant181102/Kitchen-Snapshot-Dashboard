@@ -42,4 +42,4 @@ Data Visualization
 
 # images :
 https://github.com/prashant181102/Kitchen-Snapshot-Dashboard/blob/main/KitchenSnapShot.png
-
+https://github.com/prashant181102/Kitchen-Snapshot-Dashboard/blob/main/Kitchen_Variance.png
